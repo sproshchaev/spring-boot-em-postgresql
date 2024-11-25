@@ -1,6 +1,7 @@
 # Интеграционное тестирование репозитория с встроенной БД PostgreSQL на io.zonky
 - embedded-database-spring-test
 - embedded-postgres
+Страница проекта: https://github.com/zonkyio/embedded-database-spring-test
 
 Примечание:
 1) Проект io.zonky (форк от otj-pg-embedded) позволяет запускать БД PostgreSQL без контейнера Docker:
