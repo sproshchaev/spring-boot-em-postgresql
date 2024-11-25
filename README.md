@@ -6,5 +6,5 @@
 образы из Docker-Hub
 
 ### References
-1. https://www.baeldung.com/spring-boot-embed-postgresql-testing
+1. Embedded PostgreSQL for Spring Boot Tests https://www.baeldung.com/spring-boot-embed-postgresql-testing
 2. Шесть советов об использовании PostgreSQL в функциональных тестах https://habr.com/ru/articles/501454/
